@@ -1,0 +1,14 @@
+#load_date {
+    color: green;
+    font-size: medium;
+}
+
+#code_snippet {
+    background-color: lightgray;
+    border: 2px solid black;
+    width: fit-content;
+}
+
+.emphasizedPhrase {
+    text-decoration: underline;
+}
